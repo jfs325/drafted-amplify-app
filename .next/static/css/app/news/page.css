@@ -1,0 +1,94 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/navbar.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.navbar_navBar___ozuu {
+    background-color: #C16C47;
+    padding: 15px;
+}
+
+.navbar_brand__l39JF {
+    color: white;
+    margin-right: 20px;
+}
+
+.navbar_navLinks__tA_zp {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar_navLinks__tA_zp li {
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+}
+
+.navbar_container__mvkMD {
+    display: flex;
+    align-items: center;
+}
+
+.navbar_navLinks__tA_zp li a:hover {
+    color: lightgray;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/news/news.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.news_mainContainer__GlY_l {
+    display: flex;
+    background: linear-gradient(20deg, #f5cdb3 50%, rgba(255, 225, 197, 1) 50%);
+    min-height: 100vh;
+}
+
+.news_heading1__P2_AV {
+    color: #C16C47;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+
+.news_heading2__5yhah {
+    color: #C16C47;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+.news_formItem__sZzFD {
+    display: block;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.news_labelClass__LckDI {
+    display: block;
+    color: #C16C47;
+}
+
+.news_buttonContainer__e4wLi {
+    padding: 20px;
+}
+
+.news_saveButton__RJqOz {
+    margin: 0px;
+    border-radius: 12px;
+    padding: 5px 15px;
+}
+
+.news_clearButton__Qs0KH {
+    margin-left: 30px;
+    border-radius: 12px;
+    padding: 5px 15px;
+}
+
+.news_dataTable__U9adm {
+    margin-left: 0px;
+}
+
+.news_main__ScVJ1 {
+    font-family: 'Montserrat';
+}

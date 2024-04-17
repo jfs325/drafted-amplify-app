@@ -1,0 +1,94 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/navbar.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.navbar_navBar___ozuu {
+    background-color: #C16C47;
+    padding: 15px;
+}
+
+.navbar_brand__l39JF {
+    color: white;
+    margin-right: 20px;
+}
+
+.navbar_navLinks__tA_zp {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar_navLinks__tA_zp li {
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+}
+
+.navbar_container__mvkMD {
+    display: flex;
+    align-items: center;
+}
+
+.navbar_navLinks__tA_zp li a:hover {
+    color: lightgray;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/batchcontrol/batchcontrol.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.batchcontrol_mainContainer__hSV6X {
+    display: flex;
+    background: linear-gradient(20deg, #f5cdb3 50%, rgba(255, 225, 197, 1) 50%);
+    min-height: 100vh;
+}
+
+.batchcontrol_heading1__oboDf {
+    color: #C16C47;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+
+.batchcontrol_heading2__0y8hH {
+    color: #C16C47;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+.batchcontrol_formItem__Y12R2 {
+    display: block;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.batchcontrol_labelClass__fXyCG {
+    display: block;
+    color: #C16C47;
+}
+
+.batchcontrol_buttonContainer__9PIMM {
+    padding: 20px;
+}
+
+.batchcontrol_saveButton__s_62u {
+    margin: 0px;
+    border-radius: 12px;
+    padding: 5px 15px;
+}
+
+.batchcontrol_clearButton__OfUAW {
+    margin-left: 30px;
+    border-radius: 12px;
+    padding: 5px 15px;
+}
+
+.batchcontrol_dataTable__erLq8 {
+    margin-left: 0px;
+}
+
+.batchcontrol_main__77OQq {
+    font-family: 'Montserrat';
+}
